@@ -1,0 +1,17 @@
+.card{
+    width: 30%;
+    margin: 50px 35%;
+    padding: 20px;
+}
+.btn-pri{
+    background-color: orange !important;
+    border: 1px solid orange;
+    color: black;
+}
+.card-header{
+    width: 100%;
+    border: 2px solid orange !important;
+    /* border-bottom: 2px solid orange; */
+    padding: 10px;
+    margin: 10px 2px 20px;
+}

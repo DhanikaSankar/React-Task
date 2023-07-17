@@ -1,0 +1,23 @@
+button{
+    border: 1px solid rgb(178, 177, 174);
+    width: 92px;
+    padding: 10px;
+}
+.input-rlt{
+    background:rgb(160, 160, 157) ;
+    margin-top: 20px;
+    width: 25%;
+    color: white;
+    padding: 10px;
+    text-align: right;
+    font-weight: bold;
+    font-size: 150%;
+}
+
+.btn-clr{
+    background: rgb(249, 190, 82);
+}
+.btn-zero{
+    margin: 0;
+    width: 184px !important;
+}
